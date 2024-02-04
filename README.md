@@ -1,5 +1,10 @@
-### Hi there 👋
+## 👋 Hello there great guy!
+I'm called Gustavo Barth, im a aspiring C# developer trying to get better and better at it, currently studying on internet seeing other people's projects and making ones myself (even though im still learning lol), im om the very beginning in this programming world, i've made a RPG-type game focusing on mental health for my Secondary Technical Education conclusion course work and the creating progress was so much fun! If you want to check it out, go see it on my [LinkedIn](https://www.linkedin.com/in/gustavo-barth-73bb68238/) profile :D
 
+## 🚀 Expertise
+I'm all about continuous learning and growth in the field of software development. Whether it's tackling complex algorithms or crafting elegant user interfaces, I thrive on challenges and am committed to staying at the forefront of industry trends. My toolbox includes Java, HTML, JavaScript, and CSS, and I'm currently broadening my skills in C# as i've said before. KEKW
+
+`#0D0D6D`
 <!--
 **gbarth77/gbarth77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
