@@ -4,6 +4,8 @@ I'm called Gustavo Barth, im a aspiring C# developer trying to get better and be
 ## 🚀 Expertise
 I'm all about continuous learning and growth in the field of software development. Whether it's tackling complex algorithms or crafting elegant user interfaces, I thrive on challenges and am committed to staying at the forefront of industry trends. My toolbox includes Java, HTML, JavaScript, and CSS, and I'm currently broadening my skills in C# as i've said before. KEKW
 
+## 💻 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 `#0D0D6D`
 <!--
 **gbarth77/gbarth77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
