@@ -1,0 +1,15 @@
+C:\Users\Gustavo Barth\Documents\GitHub\gbarth77\basicCalculator\bin\Debug\net8.0\basicCalculator.exe
+C:\Users\Gustavo Barth\Documents\GitHub\gbarth77\basicCalculator\bin\Debug\net8.0\basicCalculator.deps.json
+C:\Users\Gustavo Barth\Documents\GitHub\gbarth77\basicCalculator\bin\Debug\net8.0\basicCalculator.runtimeconfig.json
+C:\Users\Gustavo Barth\Documents\GitHub\gbarth77\basicCalculator\bin\Debug\net8.0\basicCalculator.dll
+C:\Users\Gustavo Barth\Documents\GitHub\gbarth77\basicCalculator\bin\Debug\net8.0\basicCalculator.pdb
+C:\Users\Gustavo Barth\Documents\GitHub\gbarth77\basicCalculator\obj\Debug\net8.0\basicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Barth\Documents\GitHub\gbarth77\basicCalculator\obj\Debug\net8.0\basicCalculator.AssemblyInfoInputs.cache
+C:\Users\Gustavo Barth\Documents\GitHub\gbarth77\basicCalculator\obj\Debug\net8.0\basicCalculator.AssemblyInfo.cs
+C:\Users\Gustavo Barth\Documents\GitHub\gbarth77\basicCalculator\obj\Debug\net8.0\basicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Barth\Documents\GitHub\gbarth77\basicCalculator\obj\Debug\net8.0\basicCalculator.sourcelink.json
+C:\Users\Gustavo Barth\Documents\GitHub\gbarth77\basicCalculator\obj\Debug\net8.0\basicCalculator.dll
+C:\Users\Gustavo Barth\Documents\GitHub\gbarth77\basicCalculator\obj\Debug\net8.0\refint\basicCalculator.dll
+C:\Users\Gustavo Barth\Documents\GitHub\gbarth77\basicCalculator\obj\Debug\net8.0\basicCalculator.pdb
+C:\Users\Gustavo Barth\Documents\GitHub\gbarth77\basicCalculator\obj\Debug\net8.0\basicCalculator.genruntimeconfig.cache
+C:\Users\Gustavo Barth\Documents\GitHub\gbarth77\basicCalculator\obj\Debug\net8.0\ref\basicCalculator.dll
