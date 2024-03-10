@@ -1,7 +1,7 @@
 ﻿class Program
 {
-    /*Basic friend request, removing and interacting system,
-    for interacting. Use the HelloFriend method to send a
+    /*Basic friend request, removing and interacting system.
+    For interacting, use the HelloFriend method to send a
     confirmed message to a friend, for adding a friend use
     AddFriend method, for removing a friend that you may do
     not like anymore or just want to remove, use RemoveFriend
