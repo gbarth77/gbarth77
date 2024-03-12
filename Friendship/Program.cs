@@ -1,7 +1,7 @@
-﻿class Program
+class Program
 {
-    /*Basic friend request, removing and interacting system.
-    For interacting, use the HelloFriend method to send a
+    /*Basic friend request, removing and interacting system,
+    for interacting. Use the HelloFriend method to send a
     confirmed message to a friend, for adding a friend use
     AddFriend method, for removing a friend that you may do
     not like anymore or just want to remove, use RemoveFriend
@@ -12,23 +12,41 @@
         {
             Messages.HelloFriend();
         }
+        public static int friends = 0;
+
         public static string? friendMessage;
 
         public static void AddFriend()
         {
             // adding a friend  
-            int friends;
-            System.Console.WriteLine("1 friend added! Congrats!");
-            friends = 1;
-            System.Console.WriteLine($"You have now {friends} friends!");
+            if (friends > 100)
+            {
+                System.Console.WriteLine("You've reached max friends capacity, in order to add this friend, remove another.");
+                return;
+            }
+            else
+            {
+                System.Console.WriteLine("A new friend added! Congrats!");
+                friends++;
+                System.Console.WriteLine($"You have now {friends} friends!");
+            }
+            System.Console.WriteLine();
         }
         public static void RemoveFriend()
         {
             // friend removal
-            int friends;
-            System.Console.WriteLine("Friend removed.");
-            friends = -1;
-            System.Console.WriteLine($"Now you have {friends} friends");
+            if (friends == 0)
+            {
+                System.Console.WriteLine("You can't remove anything... you have 0 friends :c");
+                return;
+            }
+            else
+            {
+                System.Console.WriteLine("Friend removed.");
+                friends--;
+                System.Console.WriteLine($"Now you have {friends} friends");
+            }
+            System.Console.WriteLine();
         }
         public static void HelloFriend()
         {
